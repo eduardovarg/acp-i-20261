@@ -2,11 +2,9 @@
 
 int main() {
     //1. Entrada 
-    printf("acordei e levantei\n");
     //2. Processamento
-    printf("aribaba\n");
     //3. Saida
-    printf("to com fome\n");
+    printf("um texto qualquer\n");
     printf("vou comer uma feijoada\n");
     printf("%i\n", 10);
     printf("%f\n" , 10.345500);
