@@ -63,6 +63,9 @@ int main(){
         nota_a2  = 4.4;
         nota_a3  =  6.7;
         media_final =  5.7; 
+
+        printf("%05i %5.1f  %5.1f    %5.1f   %5.1f\n", codigo_disciplina,
+           nota_a1, nota_a2, nota_a3, media_final);
        
        return 0;
  }
