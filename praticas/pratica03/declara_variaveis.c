@@ -11,10 +11,10 @@ int main(){
 
     int sua_altura;
     printf("coloque sua altura:");
-    scanf("%f", &sua_altura);
+    scanf("%i", &sua_altura);
     while(getchar() != '\n');
 
-    printf("A sua altura e:%c\n", sua_altura);
+    printf("A sua altura e:%i\n", sua_altura);
 
 
 
